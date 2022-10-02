@@ -10,10 +10,10 @@ body{
 
 img
 {
-max-width: 170px;
-border-style:inset ;
+max-width: 140px;
+border-style:outset  ;
 border-radius: 100%;
-border-color: white;
+border-color: rgb(238, 62, 9);
 
 }
 a
@@ -30,3 +30,26 @@ section{
     margin:auto;
     padding: 5px;
 }
+.redes ul {
+    margin-top: 50px; 
+    display: flex;
+    border-style: none;
+    justify-content: center;
+    list-style: none;
+     }
+      
+    .redes ul a {
+        display: block;
+        padding: 5px;
+        border-style: none;
+        
+        
+    }
+    .redes ul li a img{
+        border-radius: none;
+        border-style:none;
+        margin-inline: -20px;
+        margin-right: 50px;
+        width: 45px;
+        
+    }
