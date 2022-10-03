@@ -8,8 +8,8 @@ body{
 
 }
 
-img
-{
+.div img{
+
 max-width: 140px;
 border-style:outset  ;
 border-radius: 100%;
