@@ -10,10 +10,12 @@ body{
 
 .div img{
 
-max-width: 140px;
-border-style:outset  ;
-border-radius: 100%;
-border-color: rgb(238, 62, 9);
+max-width: 150px;
+border-style:none  ;
+border-radius: 50%;
+
+
+
 
 }
 a
