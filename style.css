@@ -3,21 +3,21 @@
 body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-background-color: transparent;
+    background-color: transparent;
 }
 
 
 
 .div img {
 
-    background-image: url(perfil.png) ;
+    background-image: url(perfil.png);
     background-size: 100%;
     width: 175px;
     height: 175px;
-    margin:  auto;
-border-radius: 50%;
-background-color:yellow;
-border: 5px solid black;
+    margin: auto;
+    border-radius: 50%;
+    background-color: yellow;
+    border: 5px solid black;
 
 
 
