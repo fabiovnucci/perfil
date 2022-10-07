@@ -1,57 +1,63 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
-     background-image: radial-gradient(circle at 50% -20.71%, #ffb700 0, #ffa300 12.5%, #ff8d00 25%, #f67600 37.5%, #e75d0b 50%, #d64419 62.5%, #c52d22 75%, #b71328 87.5%, #aa002e 100%);
-    margin-top: 20px ;
-    text-align: center ;
-
+    text-align: center;
+background-color: transparent;
 }
 
-.div img{
 
-max-width: 150px;
-border-style:none  ;
+
+.div img {
+
+    background-image: url(perfil.png) ;
+    background-size: 100%;
+    width: 175px;
+    height: 175px;
+    margin:  auto;
 border-radius: 50%;
-
+background-color:yellow;
+border: 5px solid black;
 
 
 
 }
-a
-{
-text-decoration: none;
-font-size: 20px;
-color: yellow;
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
 }
 
-section{
-    background-color:black;
+section {
+    background-color: black;
     border-radius: 100px;
     max-width: 175px;
-    margin:auto;
+    margin: auto;
     padding: 5px;
 }
+
 .redes ul {
-    margin-top: 50px; 
+    margin-top: 50px;
     display: flex;
     border-style: none;
     justify-content: center;
     list-style: none;
-     }
-      
-    .redes ul a {
-        display: block;
-        padding: 5px;
-        border-style: none;
-        
-        
-    }
-    .redes ul li a img{
-        border-radius: none;
-        border-style:none;
-        margin-inline: -20px;
-        margin-right: 50px;
-        width: 45px;
-        
-    }
+}
+
+.redes ul a {
+    display: block;
+    padding: 5px;
+    border-style: none;
+
+
+}
+
+.redes ul li a img {
+    border-radius: none;
+    border-style: none;
+    margin-inline: -20px;
+    margin-right: 50px;
+    width: 45px;
+
+}
