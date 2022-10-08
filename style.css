@@ -3,7 +3,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    background-color: transparent;
+    background-color:rgb(160, 160, 236);
 }
 
 
@@ -14,10 +14,10 @@ body {
     background-size: 100%;
     width: 175px;
     height: 175px;
-    margin: auto;
+    margin: 10px;
     border-radius: 50%;
     background-color: yellow;
-    border: 5px solid black;
+    border: 5px solid rgb(19, 3, 248);
 
 
 
