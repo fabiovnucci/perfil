@@ -1,7 +1,7 @@
 body{
     
    color: white;
-   background-image: linear-gradient(180deg, #595750 0, #494336 25%, #352c19 50%, #251600 75%, #1c0000 100%);   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+   background-image: linear-gradient(180deg, #312b13 0, #3032d6 25%, #352c19 50%, #251600 75%, #2553eb 100%);   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 ul {
     display: flex;
     justify-content:space-between ;
@@ -24,7 +24,7 @@ text-align: center;
 }
 
 h1 {
-    color: red;
+    color: rgb(0, 255, 213);
     font-size: 40px;
 }
 footer img{
@@ -50,3 +50,18 @@ footer{
  nav a:hover {
     color: yellow;
  }
+ .contador {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  h2 {
+    color: #3fff04;
+  }
+  
+  #contador {
+    font-size: 24px;
+    color: #f80303;
+  }
+  
+  
