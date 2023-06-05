@@ -1,7 +1,7 @@
 body{
     
    color: white;
-   background-image: linear-gradient(180deg, #312b13 0, #3032d6 25%, #352c19 50%, #251600 75%, #2553eb 100%);   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+   background-image: linear-gradient(180deg, #312b13 0, #3032d6 25%, #352c19 50%, #251600 75%, #0c101f 100%);   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 ul {
     display: flex;
     justify-content:space-between ;
@@ -17,7 +17,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid yellow;
+    border: 5px solid #3032d6;
 }
 .center{
 text-align: center;
