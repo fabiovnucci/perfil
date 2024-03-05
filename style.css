@@ -1,7 +1,7 @@
 body{
     
-   color: white;
-   background-image: radial-gradient(circle at 50% -20.71%, #4b9adc 0, #314f6f 50%, #0b0e13 100%);   
+   background-color: #a6a3db;
+   background-position: cover;
    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 ul {
     display: flex;
@@ -11,7 +11,7 @@ ul {
     padding: 16px;
 }
 a {
-    color: white;
+    color: rgb(33, 68, 4);
     text-decoration: none;
 }
 header img {
